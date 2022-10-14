@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gilbert
 - 👀 I’m interested in IoT and Python
 - 🌱 I’m currently learning Flaska
-- 💞️ I’m looking to collaborate on any project that involves Pyhton,IoT
+- 💞️ I’m looking to collaborate on any project that involves Pyhton and IoT, or any other thing.
 - 📫 How to reach me gilbert1sib@gmail.com
 
 <!---
